@@ -1,0 +1,16 @@
+{
+
+  "profiles": {
+    "Kestrel": {
+      "commandName": "Project",
+      "launchUrl": "api/teacher",
+      "environmentVariables": {
+        "CONNECTION_STRING": "mongodb://localhost:27017",
+        "SERVICE_PORT": "5000",
+        "DATABASE_NAME": "SchoolDb",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:5000"
+    }
+  }
+}

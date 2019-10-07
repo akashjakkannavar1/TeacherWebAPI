@@ -1,0 +1,14 @@
+D:\WebAPIs\TeacherAPI\TeacherAPI\bin\Debug\netcoreapp2.2\TeacherAPI.deps.json
+D:\WebAPIs\TeacherAPI\TeacherAPI\bin\Debug\netcoreapp2.2\TeacherAPI.runtimeconfig.json
+D:\WebAPIs\TeacherAPI\TeacherAPI\bin\Debug\netcoreapp2.2\TeacherAPI.runtimeconfig.dev.json
+D:\WebAPIs\TeacherAPI\TeacherAPI\bin\Debug\netcoreapp2.2\TeacherAPI.dll
+D:\WebAPIs\TeacherAPI\TeacherAPI\obj\Debug\netcoreapp2.2\TeacherAPI.csprojAssemblyReference.cache
+D:\WebAPIs\TeacherAPI\TeacherAPI\obj\Debug\netcoreapp2.2\TeacherAPI.csproj.CoreCompileInputs.cache
+D:\WebAPIs\TeacherAPI\TeacherAPI\obj\Debug\netcoreapp2.2\TeacherAPI.RazorAssemblyInfo.cache
+D:\WebAPIs\TeacherAPI\TeacherAPI\obj\Debug\netcoreapp2.2\TeacherAPI.RazorAssemblyInfo.cs
+D:\WebAPIs\TeacherAPI\TeacherAPI\obj\Debug\netcoreapp2.2\TeacherAPI.AssemblyInfoInputs.cache
+D:\WebAPIs\TeacherAPI\TeacherAPI\obj\Debug\netcoreapp2.2\TeacherAPI.AssemblyInfo.cs
+D:\WebAPIs\TeacherAPI\TeacherAPI\obj\Debug\netcoreapp2.2\TeacherAPI.RazorTargetAssemblyInfo.cache
+D:\WebAPIs\TeacherAPI\TeacherAPI\bin\Debug\netcoreapp2.2\TeacherAPI.pdb
+D:\WebAPIs\TeacherAPI\TeacherAPI\obj\Debug\netcoreapp2.2\TeacherAPI.dll
+D:\WebAPIs\TeacherAPI\TeacherAPI\obj\Debug\netcoreapp2.2\TeacherAPI.pdb
